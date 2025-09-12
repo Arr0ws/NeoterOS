@@ -4,19 +4,19 @@ A fake operating system made in Javascript (Node.js)
 
 ## What is it?
 
-Neoter OS is a fake/parody terminal based operating system, that's heavily inspired from unix-like system when it comes to aesthetic, specifically linux
+NeoterOS is a fake/parody terminal based operating system, that's heavily inspired from unix-like system when it comes to aesthetic, specifically linux
 
 ## 🐧 What makes it "Linux like"?
 
 1. They both have a command line interface
 
 - Linux has the terminal
-- Meanwhile Neoter OS has the NC (NeoCommand)
+- Meanwhile NeoterOS has the NC (NeoCommand)
 
 2. They both have a package manager that behaves the same
 
 - Linux use package manager like apt, pacman, etc
-- Meanwhile Neoter OS use the PET (Package Engine Turbo) package manager (fake btw)
+- Meanwhile NeoterOS use the PET (Package Engine Turbo) package manager (fake btw)
 
 ## ❌ What makes Neoter OS different?
 
