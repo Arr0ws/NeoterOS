@@ -1,7 +1,6 @@
 # Neoter OS 🖥️
 
-A fake terminal-based OS made with Node.js.  
-Inspired by Linux, MS-DOS, and pure chaos 🚀
+A fake terminal-based OS made with Javascript (Node.js)
 
 ---
 
@@ -15,7 +14,7 @@ Inspired by Linux, MS-DOS, and pure chaos 🚀
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/neoter-os.git
-cd neoter-os
+git clone https://github.com/Arr0ws/NeoterOS.git
+cd NeoterOS
 npm install
 
