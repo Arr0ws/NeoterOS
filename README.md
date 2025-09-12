@@ -34,4 +34,7 @@ Neoter OS is a fake/parody terminal based operating system, that's heavily inspi
 2. this is the second vesion of it, because the original one are accidentally deleted
 
 NOTE:
-- You can make your own os/distro of this# Neoter OS
+- You can make your own os/distro of this
+
+<img width="780" height="404" alt="image" src="https://github.com/user-attachments/assets/2be1da4f-abe9-46a8-ae86-5a59c1c78831" />
+
