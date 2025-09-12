@@ -604,6 +604,9 @@ function app() {
   console.log(chalk.white("||🖥️ (APP) ||  🧮CALC  📁FILE 🌐WEBSURF "));
   console.log(chalk.blueBright("=========================================================================================="));
   let user = prompt(">");
+  if (user === "X") {
+    mainos()
+  }
 }
 
 function calc() {
