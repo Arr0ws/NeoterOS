@@ -1,6 +1,6 @@
-# NeoterOS
+# NeoterOS 🖥️
 
-A fake operating system made in javascript (node.js)
+A fake operating system made in Javascript (Node.js)
 
 ## What is it?
 
