@@ -21,7 +21,7 @@ npm install
 
 ---
 
-## How to use it
+## 🤔 How to use it
 
 Enter this to "install" the os
 
@@ -33,6 +33,7 @@ NOTE:
 - Always use capslock
 - Type what you want to see (for example if you want to open apps, type it)
 - Press EXIT or X to leave the program
+
 
 ### 👨🏻‍💻 List of commands 
 
