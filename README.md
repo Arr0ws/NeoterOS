@@ -1,6 +1,6 @@
 # NeoterOS 🖥️
 
-A fake operating system made with Javascript (Node.js)
+A fake operating system made in Javascript (Node.js)
 
 ## What is it?
 
@@ -35,6 +35,7 @@ NeoterOS is a fake/parody terminal based operating system, that's heavily inspir
 
 NOTE:
 - You can make your own os/distro of this
+- to install and use it, go to INSTALL.md
 
 <img width="780" height="404" alt="image" src="https://github.com/user-attachments/assets/2be1da4f-abe9-46a8-ae86-5a59c1c78831" />
 
